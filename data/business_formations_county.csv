@@ -1,0 +1,10 @@
+"County","FIPS","Year","Measure Type","Variable","Value"
+"Connecticut",9,2017,"Number","Business Formations",25534
+"Fairfield County",9001,2017,"Number","Business Formations",9739
+"Hartford County",9003,2017,"Number","Business Formations",5619
+"Litchfield County",9005,2017,"Number","Business Formations",1130
+"Middlesex County",9007,2017,"Number","Business Formations",1045
+"New Haven County",9009,2017,"Number","Business Formations",5596
+"New London County",9011,2017,"Number","Business Formations",1318
+"Tolland County",9013,2017,"Number","Business Formations",658
+"Windham County",9015,2017,"Number","Business Formations",429
